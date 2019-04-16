@@ -5,7 +5,7 @@ description: Plugin which simply send notification
 keywords:
   - webhook
 categories:
-  - notification
+  - notifications
 sources:
   - https://github.com/codefresh-io/webhook-plugin
 maintainers:
